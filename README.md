@@ -14,7 +14,7 @@ I am currently embarking on my journey in the tech world, eager to learn, build,
 *   **About Section:** A comprehensive overview of my background and goals.
 *   **Skills Showcase:** A detailed categorization of my technical expertise (Frontend & Tools).
 *   **Contact Integration:** A designed contact form layout for potential inquiries.
-*   **Responsive Layout:** Structure designed to adapt to various screen sizes.
+*   **Responsive & Modern Design:** Fully responsive layout with a premium Glassmorphism header and Dark Theme aesthetics.
 
 ## 🛠️ Technologies
 
@@ -29,6 +29,7 @@ The project is built using core web technologies:
 ```text
 Portfolio-Developers Arena/
 ├── index.html            # Main entry point containing the structure
+├── style.css             # CSS styles including variables, animations, and responsive rules
 ├── Aditya profile.jpeg   # Profile image used in the hero section
 └── README.md             # Project documentation
 ```
