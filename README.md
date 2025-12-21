@@ -22,6 +22,7 @@ The project is built using core web technologies:
 
 *   **HTML5:** Serves as the backbone of the application, ensuring semantic structure.
 *   **CSS3:** Utilized for styling (referenced), layout management, and visual aesthetics.
+*   **JavaScript:** Adds interactivity, specifically for the mobile navigation toggle.
 *   **Google Fonts:** Integrated 'Outfit' and 'Playfair Display' fonts for premium typography.
 
 ## 📂 Project Structure
@@ -30,6 +31,7 @@ The project is built using core web technologies:
 Portfolio-Developers Arena/
 ├── index.html            # Main entry point containing the structure
 ├── style.css             # CSS styles including variables, animations, and responsive rules
+├── script.js             # Basic interactivity (mobile menu toggle)
 ├── Aditya profile.jpeg   # Profile image used in the hero section
 └── README.md             # Project documentation
 ```
